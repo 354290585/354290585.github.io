@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: lpt354290585@gmail.com
 description: "前端与设计 | 涛 | 这里是涛的个人博客"
 keyword: "朋涛, LPT, Tao, 朋涛的博客, Tao的博客, Tao Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "http://lptao.top"              # your host, for absolute URL
-baseurl: "http://lptao.top/taoblog"         # for example, '/blog' if your blog hosted on 'host/blog'
+##url: "http://lptao.top"              # your host, for absolute URL
+baseurl: "/taoblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
