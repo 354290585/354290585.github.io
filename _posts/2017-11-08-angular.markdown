@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      "Example Post"
-subtitle:   "不适合人类阅读，非常水的自我笔记"
-date:       2015-04-14
-author:     "Hux"
+title:      "Angular笔记"
+subtitle:   "关于angular1.5.6的笔记"
+date:       2017-11-07
+author:     "Tao"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
+    - Angular
+    - Javascript
+    - 笔记
     - OS
-    - Unix
-    - Linux
 ---
 
 # AngularJS
