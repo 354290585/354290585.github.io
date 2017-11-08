@@ -2,7 +2,7 @@
 layout:     post
 title:      "Angular"
 subtitle:   "关于angularjs的一点笔记"
-date:       2017-11-7
+date:       2017-11-07
 author:     "Tao"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
