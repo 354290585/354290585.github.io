@@ -11,7 +11,7 @@ const PRECACHE_LIST = [
   "./js/bootstrap.min.js",
   "./js/tao-blog.min.js",
   "./js/snackbar.js",
-  "./img/avatar-tao.png",
+  "./img/avatar-tao.jpg",
   "./img/avatar-hux.jpg",
   "./img/home-bg.jpg",
   "./img/404-bg.jpg",
