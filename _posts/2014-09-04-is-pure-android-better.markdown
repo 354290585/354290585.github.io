@@ -5,6 +5,7 @@ subtitle:   ""
 date:       2014-09-04 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-android.jpg"
+catalog:      true
 tags:
     - 知乎
     - 交互设计
