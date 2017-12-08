@@ -9,7 +9,6 @@ url: "http://lptao.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
-
 # SNS settings
 RSS: false
 #weibo_username:     
@@ -24,17 +23,14 @@ github_username:    354290585
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
-permalink: pretty
+permalink: none
 paginate: 10
 exclude: ["less","futility","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
-gems:
-  - jekyll-sitemap
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 
 
