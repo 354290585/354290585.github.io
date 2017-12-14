@@ -24,7 +24,7 @@ github_username:    354290585
 highlighter: rouge
 permalink: none
 paginate: 10
-exclude: ["less","futility","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","futility","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","baidu_verify_q4adWcdPGq.html"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Gems
