@@ -2,7 +2,6 @@
 layout: page
 description: "机会总是留给有准备的人"
 ---
-
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -24,7 +23,6 @@ description: "机会总是留给有准备的人"
 </div>
 <hr>
 {% endfor %}
-
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
