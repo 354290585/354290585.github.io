@@ -44,8 +44,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: tao-blog
-
+# disqus_username: tao-blog
+changyan_id: cytnviJ5H
 # Netease setttings
 netease_comment: false
 
