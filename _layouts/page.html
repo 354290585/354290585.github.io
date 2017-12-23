@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!-- Page Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
@@ -16,7 +15,6 @@ layout: default
         </div>
     </div>
 </header>
-
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
@@ -31,7 +29,6 @@ layout: default
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 sidebar-container">
-
                 <!-- Featured Tags1 -->
                 {% if site.featured-tags %}
                 <section>
@@ -48,7 +45,6 @@ layout: default
         			</div>
                 </section>
                 {% endif %}
-
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
@@ -61,7 +57,6 @@ layout: default
                 {% endif %}
             </div>
         {% else %}
-
 <!-- USE SIDEBAR -->
     <!-- PostList Container -->
     		<div class="
@@ -97,7 +92,6 @@ layout: default
                     </div>
                 </section>
                 {% endif %}
-
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
